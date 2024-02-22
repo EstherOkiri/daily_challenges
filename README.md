@@ -7,8 +7,7 @@
     between 1 and 15 that are divisible by 3 or 5 are: 3, 5, 6, 9, and 10, and their sum is 45.
 
     Here are some additional requirements and hints:
-
-1. Use a loop to iterate over all the numbers between 1 and n.
-2. Use an if statement and the modulus operator (%) to check if a number is divisible by 3 or 5.
-3. Use a variable to keep track of the running sum, and update it on each iteration of the loop.
-4. You can assume that the input n will be a positive integer.
+- Use a loop to iterate over all the numbers between 1 and n.
+- Use an if statement and the modulus operator (%) to check if a number is divisible by 3 or 5.
+- Use a variable to keep track of the running sum, and update it on each iteration of the loop.
+- You can assume that the input n will be a positive integer.
