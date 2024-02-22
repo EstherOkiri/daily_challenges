@@ -1,8 +1,10 @@
 # Daily Challenge 2
     Sum of numbers between 1 and ‘n’
-    Write a program that takes a positive integer n as input and outputs the sum of all numbers between 1 and n that are divisible by 3 or 5 (or both).
+    Write a program that takes a positive integer n as input and outputs 
+    the sum of all numbers between 1 and n that are divisible by 3 or 5 (or both).
 
-    For example, if n is 15, the program should output 45, since the numbers between 1 and 15 that are divisible by 3 or 5 are: 3, 5, 6, 9, and 10, and their sum is 45.
+    For example, if n is 15, the program should output 45, since the numbers 
+    between 1 and 15 that are divisible by 3 or 5 are: 3, 5, 6, 9, and 10, and their sum is 45.
 
     Here are some additional requirements and hints:
 
