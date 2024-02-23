@@ -11,3 +11,8 @@
 - Use an if statement and the modulus operator (%) to check if a number is divisible by 3 or 5.
 - Use a variable to keep track of the running sum, and update it on each iteration of the loop.
 - You can assume that the input n will be a positive integer.
+
+# Daily Challenge 3 - Fibonacci Sequence
+# Fibonacci Sequence
+  Create a function called fibonacci_sequence that takes in an integer n as its parameter and 
+  returns a list of the first n numbers in the Fibonacci sequence.
