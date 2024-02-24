@@ -16,3 +16,7 @@
 # Fibonacci Sequence
   Create a function called fibonacci_sequence that takes in an integer n as its parameter and 
   returns a list of the first n numbers in the Fibonacci sequence.
+
+# Daily Challenge 4 - 
+# Group By
+  Write a function called groupBy that takes two parameters: an array of objects and a string that represents a property name. The function should group the objects in the array by the value of the specified property, and return an object where each key is the distinct value of the specified property, and the value is an array of objects that have that property value.
